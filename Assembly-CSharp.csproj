@@ -56,6 +56,7 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Assets\01_Scripts\PlayerInteraction.cs" />
     <Compile Include="Assets\01_Scripts\InteractableObject.cs" />
     <Compile Include="Assets\01_Scripts\DialogueData.cs" />
@@ -63,6 +64,25 @@
     <Compile Include="Assets\01_Scripts\PlayerMovement2D.cs" />
     <Compile Include="Assets\01_Scripts\DialogueTriggerArea.cs" />
     <Compile Include="Assets\01_Scripts\CameraFollow2D.cs" />
+=======
+    <Compile Include="Assets\Scripts\PlayerInteraction.cs" />
+    <Compile Include="Assets\Scripts\InteractableObject.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\ChargerShadow.cs" />
+    <Compile Include="Assets\Scripts\FlashlightController.cs" />
+    <Compile Include="Assets\Scripts\CameraFollow2D.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\FlyingShadow.cs" />
+    <Compile Include="Assets\Scripts\MiniJuegoRecargarBateria\CablePort.cs" />
+    <Compile Include="Assets\Scripts\DialogueData.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\JumpingShadow.cs" />
+    <Compile Include="Assets\Scripts\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\MiniJuegoRecargarBateria\CableMinigameManager.cs" />
+    <Compile Include="Assets\Scripts\PlayerMovement2D.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\GroundShadow.cs" />
+    <Compile Include="Assets\Scripts\DialogueTriggerArea.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\SanityManager.cs" />
+    <Compile Include="Assets\Scripts\MiniJuegoRecargarBateria\CableDraggable.cs" />
+    <Compile Include="Assets\Scripts\Enemigos\BaseShadow.cs" />
+>>>>>>> d99e95ee (Primer commit)
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -647,12 +667,26 @@
     <Reference Include="Unity.2D.PixelPerfect">
       <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="Unity.2D.Tilemap.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+=======
+    <Reference Include="Unity.RenderPipelines.Universal.Shaders">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+>>>>>>> d99e95ee (Primer commit)
     </Reference>
     <Reference Include="PsdPlugin">
       <HintPath>Library\ScriptAssemblies\PsdPlugin.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
@@ -665,6 +699,12 @@
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.Searcher.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Searcher.Editor.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.2D.IK.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Editor.dll</HintPath>
     </Reference>
@@ -677,8 +717,13 @@
     <Reference Include="Unity.2D.Path.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="Unity.InternalAPIEditorBridge.001">
       <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
+=======
+    <Reference Include="Unity.RenderPipelines.Core.Runtime">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+>>>>>>> d99e95ee (Primer commit)
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -689,15 +734,36 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
+=======
+    <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.InternalAPIEditorBridge.001">
+      <HintPath>Library\ScriptAssemblies\Unity.InternalAPIEditorBridge.001.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.Mathematics">
       <HintPath>Library\ScriptAssemblies\Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.IK.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.IK.Runtime.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.ShaderGraph.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.ShaderGraph.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.Universal.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.2D.Animation.Triangle.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Animation.Triangle.Editor.dll</HintPath>
     </Reference>
@@ -707,6 +773,15 @@
     <Reference Include="Unity.2D.PixelPerfect.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -722,6 +797,12 @@
     <Reference Include="Unity.2D.Common.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
+=======
+    <Reference Include="Unity.RenderPipelines.Core.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.RenderPipelines.Core.Editor.dll</HintPath>
+    </Reference>
+>>>>>>> d99e95ee (Primer commit)
     <Reference Include="Unity.2D.SpriteShape.Runtime">
       <HintPath>Library\ScriptAssemblies\Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>

@@ -1,5 +1,9 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/00_Scenes/SampleScene.unity
+=======
+- path: Assets/Scenes/SampleScene.unity
+>>>>>>> d99e95ee (Primer commit)
   isLoaded: 1
   isActive: 1
   isSubScene: 0

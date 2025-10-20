@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Escalera
   - Interactuable
+<<<<<<< HEAD
+=======
+  - LuzPlayer
+>>>>>>> d99e95ee (Primer commit)
   layers:
   - Default
   - TransparentFX
@@ -13,8 +17,13 @@ TagManager:
   - 
   - Water
   - UI
+<<<<<<< HEAD
   - 
   - 
+=======
+  - Minigames
+  - groundLayer
+>>>>>>> d99e95ee (Primer commit)
   - 
   - 
   - 
@@ -43,3 +52,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+<<<<<<< HEAD
+=======
+  - name: Piso
+    uniqueID: 2134180079
+    locked: 0
+>>>>>>> d99e95ee (Primer commit)

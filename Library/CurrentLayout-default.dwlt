@@ -19,9 +19,15 @@ MonoBehaviour:
     width: 1600
     height: 809
   m_ShowMode: 4
+<<<<<<< HEAD
   m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
+=======
+  m_Title: Game
+  m_RootView: {fileID: 2}
+  m_MinSize: {x: 875, y: 542}
+>>>>>>> d99e95ee (Primer commit)
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -119,10 +125,17 @@ MonoBehaviour:
     y: 30
     width: 1600
     height: 759
+<<<<<<< HEAD
   m_MinSize: {x: 677, y: 492}
   m_MaxSize: {x: 18001, y: 14042}
   vertical: 0
   controlID: 152
+=======
+  m_MinSize: {x: 678, y: 492}
+  m_MaxSize: {x: 18001, y: 14042}
+  vertical: 0
+  controlID: 169
+>>>>>>> d99e95ee (Primer commit)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -142,12 +155,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1117
     height: 759
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
   controlID: 18
+=======
+    width: 1312
+    height: 759
+  m_MinSize: {x: 403, y: 492}
+  m_MaxSize: {x: 14001, y: 14042}
+  vertical: 1
+  controlID: 146
+>>>>>>> d99e95ee (Primer commit)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,12 +189,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1117
     height: 426
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
   controlID: 19
+=======
+    width: 1312
+    height: 422
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
+  vertical: 0
+  controlID: 58
+>>>>>>> d99e95ee (Primer commit)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -190,10 +221,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 332
     height: 426
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+    width: 393
+    height: 422
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> d99e95ee (Primer commit)
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -214,12 +252,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 332
     y: 0
     width: 785
     height: 426
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 393
+    y: 0
+    width: 919
+    height: 422
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> d99e95ee (Primer commit)
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -244,6 +291,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 426
     width: 1117
     height: 333
@@ -251,6 +299,15 @@ MonoBehaviour:
   m_MaxSize: {x: 14001, y: 10021}
   vertical: 0
   controlID: 130
+=======
+    y: 422
+    width: 1312
+    height: 337
+  m_MinSize: {x: 331, y: 271}
+  m_MaxSize: {x: 14001, y: 10021}
+  vertical: 0
+  controlID: 147
+>>>>>>> d99e95ee (Primer commit)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -268,8 +325,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 719
     height: 333
+=======
+    width: 622
+    height: 337
+>>>>>>> d99e95ee (Primer commit)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 18}
@@ -294,12 +356,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 719
     y: 0
     width: 398
     height: 333
   m_MinSize: {x: 102, y: 121}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 622
+    y: 0
+    width: 690
+    height: 337
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> d99e95ee (Primer commit)
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -320,12 +391,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1117
     y: 0
     width: 483
     height: 759
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
+=======
+    x: 1312
+    y: 0
+    width: 288
+    height: 759
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> d99e95ee (Primer commit)
   m_ActualView: {fileID: 21}
   m_Panes:
   - {fileID: 21}
@@ -351,10 +431,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 719
     y: 499
     width: 396
     height: 312
+=======
+    x: 622
+    y: 495
+    width: 688
+    height: 316
+>>>>>>> d99e95ee (Primer commit)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -362,11 +449,19 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 396, y: 291}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
   m_MaximizeOnPlay: 1
+=======
+  m_TargetSize: {x: 688, y: 295}
+  m_TextureFilterMode: 0
+  m_TextureHideFlags: 61
+  m_RenderIMGUI: 1
+  m_MaximizeOnPlay: 0
+>>>>>>> d99e95ee (Primer commit)
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -377,10 +472,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -198
     m_HBaseRangeMax: 198
     m_VBaseRangeMin: -145.5
     m_VBaseRangeMax: 145.5
+=======
+    m_HBaseRangeMin: -344
+    m_HBaseRangeMax: 344
+    m_VBaseRangeMin: -147.5
+    m_VBaseRangeMax: 147.5
+>>>>>>> d99e95ee (Primer commit)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -398,16 +500,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
       width: 396
       height: 291
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 198, y: 145.5}
+=======
+      width: 688
+      height: 295
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 344, y: 147.5}
+>>>>>>> d99e95ee (Primer commit)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -198
       y: -145.5
       width: 396
@@ -415,6 +525,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 396, y: 312}
+=======
+      x: -344
+      y: -147.5
+      width: 688
+      height: 295
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 688, y: 316}
+>>>>>>> d99e95ee (Primer commit)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -442,14 +561,24 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
+<<<<<<< HEAD
     width: 331
     height: 405
+=======
+    width: 392
+    height: 401
+>>>>>>> d99e95ee (Primer commit)
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: 
       m_LastClickedID: 0
+=======
+      m_SelectedIDs: 6c4c0000
+      m_LastClickedID: 19564
+>>>>>>> d99e95ee (Primer commit)
       m_ExpandedIDs: 60fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -494,12 +623,21 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 332
     y: 73
     width: 783
     height: 405
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
+=======
+    x: 393
+    y: 73
+    width: 917
+    height: 401
+  m_ViewDataDictionary: {fileID: 0}
+  m_ShowContextualTools: 1
+>>>>>>> d99e95ee (Primer commit)
   m_WindowGUID: cc27987af1a868c49b0894db9c0f5429
   m_Gizmos: 1
   m_OverrideSceneCullingMask: 6917529027641081856
@@ -510,9 +648,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0.8502795, y: -1.0818415, z: -1.1943998}
     speed: 2
     m_Value: {x: 0.8502795, y: -1.0818415, z: -1.1943998}
+=======
+    m_Target: {x: 21.735083, y: 0.038772076, z: -13.269916}
+    speed: 2
+    m_Value: {x: 21.735083, y: 0.038772076, z: -13.269916}
+>>>>>>> d99e95ee (Primer commit)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -563,9 +707,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 3.7001357
     speed: 2
     m_Value: 3.7001357
+=======
+    m_Target: 13.561872
+    speed: 2
+    m_Value: 13.561872
+>>>>>>> d99e95ee (Primer commit)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -672,9 +822,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 499
     width: 718
     height: 312
+=======
+    y: 495
+    width: 621
+    height: 316
+>>>>>>> d99e95ee (Primer commit)
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -686,25 +842,44 @@ MonoBehaviour:
     m_ReferencingInstanceIDs: 
     m_SceneHandles: 
     m_ShowAllHits: 0
+<<<<<<< HEAD
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
     - Assets/01_Scripts
+=======
+    m_SkipHidden: 1
+    m_SearchArea: 1
+    m_Folders:
+    - Assets
+>>>>>>> d99e95ee (Primer commit)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/01_Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\CAEM\Downloads\Detective2D\Detective2D
+=======
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: D:\Tareas\Game Jam\Tapia2\Detective2D
+>>>>>>> d99e95ee (Primer commit)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 60420000
     m_LastClickedID: 16992
     m_ExpandedIDs: 000000005a42000000ca9a3b
+=======
+    m_SelectedIDs: 984e0000
+    m_LastClickedID: 20120
+    m_ExpandedIDs: 00000000984e00009a4e00009c4e00009e4e000000ca9a3b
+>>>>>>> d99e95ee (Primer commit)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -732,7 +907,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000005a420000
+=======
+    m_ExpandedIDs: 00000000984e00009a4e00009c4e00009e4e0000
+>>>>>>> d99e95ee (Primer commit)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,7 +965,11 @@ MonoBehaviour:
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
+<<<<<<< HEAD
   m_SkipHiddenPackages: 0
+=======
+  m_SkipHiddenPackages: 1
+>>>>>>> d99e95ee (Primer commit)
   m_DirectoriesAreaWidth: 207
 --- !u!114 &19
 MonoBehaviour:
@@ -809,9 +992,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 483.2
     width: 689.4
     height: 300.19998
+=======
+    y: 479.2
+    width: 595.8
+    height: 304.19998
+>>>>>>> d99e95ee (Primer commit)
   m_ViewDataDictionary: {fileID: 0}
 --- !u!114 &20
 MonoBehaviour:
@@ -835,12 +1024,20 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 483.2
+<<<<<<< HEAD
     width: 822.2
+=======
+    width: 689.4
+>>>>>>> d99e95ee (Primer commit)
     height: 300.19998
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
+<<<<<<< HEAD
   m_LastSelectedObjectID: 20856
+=======
+  m_LastSelectedObjectID: -55138
+>>>>>>> d99e95ee (Primer commit)
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -861,9 +1058,15 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1117
     y: 73
     width: 482
+=======
+    x: 1312
+    y: 73
+    width: 287
+>>>>>>> d99e95ee (Primer commit)
     height: 738
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
