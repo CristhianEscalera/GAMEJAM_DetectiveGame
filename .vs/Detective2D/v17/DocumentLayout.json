@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\assets\\01_scripts\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|c:\\users\\caem\\downloads\\detective2d\\detective2d\\assets\\01_scripts\\dialoguetriggerarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\dialoguetriggerarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueTriggerArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DialogueTriggerArea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\assets\\01_scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\assets\\01_scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\assets\\01_scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\01_scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\InteractableObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\InteractableObject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\PlayerMovement2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerMovement2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DialogueData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DialogueManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\CameraFollow2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraFollow2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DialogueTriggerArea.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueTriggerArea.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\DialogueTriggerArea.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueTriggerArea.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\DialogueTriggerArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:14:31.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DialogueData.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueData.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\DialogueData.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueData.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\DialogueData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T14:13:32.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:49:59.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerMovement2D.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\PlayerMovement2D.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\PlayerMovement2D.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\PlayerMovement2D.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\PlayerMovement2D.cs",
+              "ViewState": "AgIAANMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:42:32.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\01_Scripts\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\01_Scripts\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\01_Scripts\\InteractableObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T13:22:26.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogueTriggerArea.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueTriggerArea.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueTriggerArea.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueTriggerArea.cs",
+              "RelativeToolTip": "Assets\\DialogueTriggerArea.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T04:01:50.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\InteractableObject.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\InteractableObject.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T03:32:33.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DialogueData.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueData.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueData.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueData.cs",
+              "RelativeToolTip": "Assets\\DialogueData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T03:28:51.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\DialogueManager.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\DialogueManager.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAqwAIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T03:21:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraFollow2D.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\CameraFollow2D.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraFollow2D.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\CameraFollow2D.cs",
+              "RelativeToolTip": "Assets\\CameraFollow2D.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:30:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement2D.cs",
+              "DocumentMoniker": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\PlayerMovement2D.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement2D.cs",
+              "ToolTip": "C:\\Users\\CAEM\\Downloads\\Detective2D\\Detective2D\\Assets\\PlayerMovement2D.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement2D.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T02:30:18.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
