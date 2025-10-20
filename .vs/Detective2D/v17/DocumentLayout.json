@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AttackRedesII\\Detective2D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\flashlightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\minijuegorecargarbateria\\cabledraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minijuegorecargarbateria\\cabledraggable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\minijuegorecargarbateria\\cableport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minijuegorecargarbateria\\cableport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\minijuegorecargarbateria\\cableminigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\minijuegorecargarbateria\\cableminigamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dialoguedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|d:\\attackredesii\\detective2d\\assets\\scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{658E7E8A-B3D7-3E56-FACC-DDB841485D6B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CablePort.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CablePort.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CablePort.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CablePort.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CablePort.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswIkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:18:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CableMinigameManager.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CableMinigameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CableMinigameManager.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CableMinigameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CableMinigameManager.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAswGwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:17:32.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CableDraggable.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CableDraggable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CableDraggable.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\MiniJuegoRecargarBateria\\CableDraggable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MiniJuegoRecargarBateria\\CableDraggable.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAqwPQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:48:14.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DialogueManager.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueManager.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\DialogueManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueManager.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:46:54.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueData.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\DialogueData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DialogueData.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\DialogueData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DialogueData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:46:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:40:02.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlashlightController.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\FlashlightController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FlashlightController.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\FlashlightController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FlashlightController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:15:16.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerMovement2D.cs",
+              "DocumentMoniker": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\PlayerMovement2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement2D.cs",
+              "ToolTip": "D:\\AttackRedesII\\Detective2D\\Assets\\Scripts\\PlayerMovement2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement2D.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:28:52.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
